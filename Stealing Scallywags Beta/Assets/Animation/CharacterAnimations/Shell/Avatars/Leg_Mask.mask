@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Leg_Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: ROOT_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Hips_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Hips_jnt/Hip_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Hips_jnt/Hip_L_jnt/Knee_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Hips_jnt/Hip_L_jnt/Knee_L_jnt/Ankle_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Hips_jnt/Hip_L_jnt/Knee_L_jnt/Ankle_jnt/Ball_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Hips_jnt/Hip_L_jnt/Knee_L_jnt/Ankle_jnt/Ball_L_jnt/Toe_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Hips_jnt/Hip_R_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Hips_jnt/Hip_R_jnt/Knee_R_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Hips_jnt/Hip_R_jnt/Knee_R_jnt/Ankle_jnt 1
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Hips_jnt/Hip_R_jnt/Knee_R_jnt/Ankle_jnt 1/Ball_R_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Hips_jnt/Hip_R_jnt/Knee_R_jnt/Ankle_jnt 1/Ball_R_jnt/Toe_R_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/Neck_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/Neck_jnt/Head_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/Neck_jnt/Head_jnt/HeadTop_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Index_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Index_L_jnt/Index_01_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Index_L_jnt/Index_01_L_jnt/Index_02_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Index_L_jnt/Index_01_L_jnt/Index_02_L_jnt/Index_03_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Middle_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Middle_L_jnt/Middle_01_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Middle_L_jnt/Middle_01_L_jnt/Middle_02_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Middle_L_jnt/Middle_01_L_jnt/Middle_02_L_jnt/Middle_03_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Pinky_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Pinky_L_jnt/Pinky_01_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Pinky_L_jnt/Pinky_01_L_jnt/Pinky_02_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Pinky_L_jnt/Pinky_01_L_jnt/Pinky_02_L_jnt/Pinky_03_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Ring_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Ring_L_jnt/Ring_01_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Ring_L_jnt/Ring_01_L_jnt/Ring_02_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Ring_L_jnt/Ring_01_L_jnt/Ring_02_L_jnt/Ring_03_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Thumb_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Thumb_L_jnt/Thumb_01_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Thumb_L_jnt/Thumb_01_L_jnt/Thumb_02_L_jnt
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_L_jnt/Sholder_L_jnt/Elbow_L_jnt/Wrist_L_jnt/Thumb_L_jnt/Thumb_01_L_jnt/Thumb_02_L_jnt/Thumb_02_L_jnt
+      1
+    m_Weight: 1
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Index_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Index_R_jnt/Index_01_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Index_R_jnt/Index_01_R_jnt/Index_02_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Index_R_jnt/Index_01_R_jnt/Index_02_R_jnt/Index_03_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Middle_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Middle_R_jnt/Middle_01_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Middle_R_jnt/Middle_01_R_jnt/Middle_02_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Middle_R_jnt/Middle_01_R_jnt/Middle_02_R_jnt/Middle_03_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Pinky_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Pinky_R_jnt/Pinky_01_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Pinky_R_jnt/Pinky_01_R_jnt/Pinky_02_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Pinky_R_jnt/Pinky_01_R_jnt/Pinky_02_R_jnt/Pinky_03_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Ring_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Ring_R_jnt/Ring_01_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Ring_R_jnt/Ring_01_R_jnt/Ring_02_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Ring_R_jnt/Ring_01_R_jnt/Ring_02_R_jnt/Ring_03_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Thumb_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Thumb_R_jnt/Thumb_01_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Thumb_R_jnt/Thumb_01_R_jnt/Thumb_02_R_jnt
+    m_Weight: 0
+  - m_Path: ROOT_jnt/COG_jnt/Spine_01_jnt/Spine_02_jnt/Torso_jnt/SholderBlade_R_jnt/Sholder_R_jnt/Elbow_R_jnt/Wrist_R_jnt/Thumb_R_jnt/Thumb_01_R_jnt/Thumb_02_R_jnt/Thumb_02_R_jnt
+      1
+    m_Weight: 0
+  - m_Path: Shell_low
+    m_Weight: 1
